@@ -1,4 +1,3 @@
-
 Hello and welcome to Illuminate!
 
 Our mission is to help you! As the Students Against Suicide (SAS), we’re dedicated to helping the students around the country tackle. The product we designed is called Illuminate. Our main mission is to connect people with mental health tools with ease of access, providing hope to the hopeless. So regardless of background and insurance, people should be able to find reliable mental health resources in their area. 
